@@ -166,25 +166,8 @@ The pipeline produces the following analytics-ready datasets:
 
 # 📸 Screenshots
 
-## Databricks Workspace
-
-*(Add image later)*
-
-## Bronze Layer
-
-*(Add screenshot later)*
-
-## Silver Layer
-
-*(Add screenshot later)*
-
-## Gold Layer
-
-*(Add screenshot later)*
-
-## Workflow Execution
-
-*(Add screenshot later)*
+## Bronze, Silver, Gold Layers:
+![Catalog](docs/DATABRICKS_CATALOG.JPG)
 
 ---
 
